@@ -7,7 +7,7 @@
 
 - 🔭 Most recent project [ToDo List](https://github.com/GaveeshaW/todolist.git)
 
-- 👨‍💻 My portfolio I created in 2022 [https://raw.githack.com/GaveeshaW/Portfolio/main/portfolio/main/main.html](https://raw.githack.com/GaveeshaW/Portfolio/main/portfolio/main/main.html)
+- 👨‍💻 My portfolio [https://gaveeshawelhena.me](https://gaveeshawelhena.me)
 
 - 💬 Ask me about **react, angular, typescript, python, java**
 
